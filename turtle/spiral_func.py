@@ -10,7 +10,7 @@ def spiral(size=100):
         size += 5
         rt(5)
         for i in range(4):
-            forward(size + 5)
+            forward(size)
             rt(90)
 
 
