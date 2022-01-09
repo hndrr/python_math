@@ -25,3 +25,6 @@ def squareRoot(num, low, high):
 
 
 squareRoot(60, 7, 8)
+squareRoot(200, 10, 20)
+squareRoot(1000, 30, 32)
+squareRoot(50000, 100, 500)
